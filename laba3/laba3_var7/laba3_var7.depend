@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1761582331 source:c:\users\chess\onedrive\Рабочий стол\dz\laba3\laba3_var7\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+
